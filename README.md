@@ -30,7 +30,7 @@ A free and open-source training software for Team Fortress 2, based on [SE-Owned
 
 ## Media
 
-- [Fedoraware is the best free cheat in tf2 (by bean)](https://www.youtube.com/watch?v=FyeaMghYZL0)
+- [My channel with some of tutorials how to use that (Russian language)]([https://www.youtube.com/watch?v=FyeaMghYZL0](https://www.youtube.com/channel/UCUilfQhRPZncDnFYI4v2Y1w))
 - [Playing as Michael Jackson (by km)](https://www.youtube.com/watch?v=cVD3BBEMNPo)
 
 ## Credits to
